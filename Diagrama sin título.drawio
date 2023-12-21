@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:28:24.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="8oHWUQEO-XLTgc8fvwZC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:32:17.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="un0inemDk9bOxd_hgo9X" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2284" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -356,7 +356,7 @@
             <mxPoint x="760" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-47" value="Spoken Lenguages" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-47" value="Lenguages" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="720" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="P4zo_Nze_wY_TfDuuLkY-47">
@@ -623,8 +623,8 @@
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-206" value="n:n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="650" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-207" value="Tiene" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="515" y="650" width="40" height="20" as="geometry" />
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-207" value="Es doblada" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="650" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-210" value="Disyuncion / AND" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="490" width="160" height="20" as="geometry" />
@@ -644,14 +644,23 @@
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-216" value="1:n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="810" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-217" value="1:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-217" value="n:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="890" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-218" value="1:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-218" value="n:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="850" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-219" value="Tiene" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P4zo_Nze_wY_TfDuuLkY-172" target="P4zo_Nze_wY_TfDuuLkY-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="801" y="525" />
+              <mxPoint x="801" y="779" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
