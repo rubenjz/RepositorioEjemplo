@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T01:02:10.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_3rUg9fFY_tXwDStLbos" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T01:27:35.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="71cVISt67V9PyPqRQzsr" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2537" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2284" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,20 +626,20 @@
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-207" value="Tiene" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="650" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-210" value="AND" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="490" width="40" height="20" as="geometry" />
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-210" value="Disyuncion / AND" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="490" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-211" value="1:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-212" value="1:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-212" value="1:n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="700" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-213" value="1:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-213" value="1:n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="660" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4zo_Nze_wY_TfDuuLkY-214" value="Tiene" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="650" width="40" height="20" as="geometry" />
+        <mxCell id="P4zo_Nze_wY_TfDuuLkY-214" value="Pertence" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="650" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P4zo_Nze_wY_TfDuuLkY-216" value="1:1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="810" width="40" height="20" as="geometry" />
